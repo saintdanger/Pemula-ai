@@ -1,0 +1,2 @@
+# Pemula-ai
+Ai pemula
